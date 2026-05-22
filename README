@@ -1,0 +1,58 @@
+# Accion Legendaria — TaleSpire Mod
+
+**Accion Legendaria** es un mod para **TaleSpire** pensado para mejorar la experiencia de juego en partidas de **Dungeons & Dragons 5e / 5.5e**, integrando herramientas de gestión de personajes, combate, compendios, automatizaciones y utilidades directamente dentro de TaleSpire.
+
+El objetivo del proyecto es facilitar el trabajo del DM y de los jugadores durante la partida, reduciendo tareas manuales y centralizando información importante dentro de una interfaz propia.
+
+---
+
+## ✨ ¿Qué hace este mod?
+
+Accion Legendaria añade una interfaz integrada en TaleSpire con herramientas diseñadas para partidas de rol, especialmente D&D.
+
+Entre sus funciones principales se incluyen:
+
+- Gestión de personajes.
+- Gestión de monstruos y criaturas.
+- Compendios de conjuros, objetos, especies, clases y trasfondos.
+- Automatización de tiradas y acciones.
+- Control de puntos de golpe.
+- Sistema de combate e iniciativa.
+- Recursos de personaje.
+- Rasgos, dotes y habilidades especiales.
+- Integración visual con miniaturas.
+- Herramientas para buffs, estados y efectos.
+- Soporte para acciones personalizadas.
+- Interfaz nativa dentro de TaleSpire.
+
+---
+
+## 🎲 ¿Para qué sirve?
+
+Este mod está pensado para ayudar durante las sesiones de juego, permitiendo que muchas acciones habituales se puedan hacer desde TaleSpire sin depender de hojas externas o cálculos manuales constantes.
+
+Sirve para:
+
+- Consultar reglas y datos de juego rápidamente.
+- Crear y usar acciones de ataque, conjuros y habilidades.
+- Controlar recursos como espacios de conjuro, usos diarios, rasgos y habilidades.
+- Llevar el seguimiento de personajes y monstruos.
+- Automatizar partes del combate.
+- Mejorar la experiencia visual y funcional de TaleSpire para partidas de D&D.
+- Ayudar al DM a gestionar encuentros de forma más cómoda.
+
+---
+
+## 🧩 Instalación
+
+La forma recomendada de instalar y actualizar el mod es usando el **Accion Legendaria Launcher**.
+
+El launcher se encarga de:
+
+- Instalar el mod.
+- Actualizar el mod.
+- Instalar dependencias necesarias.
+- Detectar nuevas versiones.
+- Mantener los archivos principales actualizados.
+
+Puedes descargar la última versión desde la sección de **Releases** del repositorio oficial.
